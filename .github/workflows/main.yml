@@ -45,7 +45,7 @@ jobs:
           plugin_pagespeed_url: https://shiro-koi.github.io/
           
           plugin_wakatime: yes
-          plugin_wakatime_token:  ${{ secrets.WAKATIME_API }}
+          plugin_wakatime_token:  ${{ secrets.WAKATIME }}
           plugin_wakatime_days: 30
           plugin_wakatime_limit: 5
           plugin_wakatime_repositories_visibility: all

@@ -3,10 +3,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=4F94EF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello%2C+I'm+Asaad;Software+Engineer+%7C+Backend+Developer" width="70%" />
 </div>
 
-<!-- Content section with side-by-side layout -->
-<table border="0">
-<tr>
-<td width="70%" valign="top">
+<!-- Content section with image on right -->
+<img align="right" width="25%" src="https://github.com/sn0wqt/sn0wqt/blob/main/assets/right.jpeg" />
 
 ```console
 sn0wqt@sn0wqts-MacBook-Air:~ % whoami
@@ -32,7 +30,7 @@ PING success (127.0.0.1): 56 data bytes
 1 packets transmitted, 1 packets received, 0% packet loss
 ```
 
-</td> <td width="30%" align="right" valign="top"> <img src="https://github.com/sn0wqt/sn0wqt/blob/main/assets/right.jpeg" width="100%" /> </td> </tr> </table> <div align="center"> <img src="https://github.com/sn0wqt/sn0wqt/blob/main/assets/kyubey.gif" height="40" /> <br><br> </div>
+<div align="center"> <img src="https://github.com/sn0wqt/sn0wqt/blob/main/assets/kyubey.gif" height="40" /> <br><br> </div>
 
 
 [![](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asaad-f-rasul)

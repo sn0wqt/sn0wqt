@@ -1,11 +1,9 @@
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=4F94EF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello%2C+I'm+Asaad;Software+Engineer+%7C+Backend+Developer" width="70%" />
-</div>
-
-
+<!-- Right-aligned image -->
 <img src="https://github.com/sn0wqt/sn0wqt/blob/main/assets/right.jpeg" width="25%" align="right" />
 
-
+<!-- Typing SVG above console only -->
+<div style="width: 70%;">
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=4F94EF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=140&lines=Hello%2C+I'm+Asaad;Software+Engineer+%7C+Backend+Developer" width="100%" />
 
 ```console
 sn0wqt@sn0wqts-MacBook-Air:~$ whoami
@@ -22,12 +20,6 @@ sn0wqt@sn0wqts-MacBook-Air:~$ cat /etc/profile
 
 sn0wqt@sn0wqts-MacBook-Air:~$ echo $PATH
 /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games
-
-sn0wqt@sn0wqts-MacBook-Air:~$ ping -c 1 success
-PING success (127.0.0.1): 56 data bytes
-64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.024 ms
---- success ping statistics ---
-1 packets transmitted, 1 packets received, 0% packet loss
 ```
 
 <div align="center">

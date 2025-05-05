@@ -1,29 +1,30 @@
-<!-- Right image aligned to the right -->
-<img src="https://github.com/sn0wqt/sn0wqt/blob/main/assets/right.jpeg" width="25%" align="right" />
-
 <!-- Typing SVG at the top center -->
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=4F94EF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello%2C+I'm+Asaad;Software+Engineer+%7C+Backend+Developer" width="70%" />
 </div>
 
+<!-- Right image aligned to the right -->
+<img src="https://github.com/sn0wqt/sn0wqt/blob/main/assets/right.jpeg" width="25%" align="right" />
+
+
 <!-- Console section - preserving original content without backticks -->
 ```console
-sn0wqt@terminal:~$ whoami
+sn0wqt@sn0wqts-MacBook-Air:~$ whoami
 Asaad F. Rasul
 
-sn0wqt@terminal:~$ uname -a
-Darwin sn0wqts-MacBook-Air.local 24.3.0 Darwin Kernel Version 24.3.0: Thu Jan  2 20:24:06 PST 2025; root:xnu-11215.81.4~3/RELEASE_ARM64_T8103 arm64
+sn0wqt@sn0wqts-MacBook-Air:~$ uname -a
+Darwin sn0wqts-MacBook-Air.local 24.3.0 Darwin Kernel Version 24.3.0: Thu Jan 2 20:24:06 PST 2025;
+root:xnu-11215.81.4~3/RELEASE_ARM64_T8103 arm64
 
-sn0wqt@terminal:~$ cat /etc/profile
+sn0wqt@sn0wqts-MacBook-Air:~$ cat /etc/profile
 💼 BSc Software Engineering @ American University of Iraq
 💻 Backend Development • API Design • Reverse Engineering
 🎮 Average FPS/Story-based Games • Manga/Anime • Code Enjoyer
-🔍 "Strive for continuous improvement, instead of perfection."
 
-sn0wqt@terminal:~$ echo $PATH
+sn0wqt@sn0wqts-MacBook-Air:~$ echo $PATH
 /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games
 
-sn0wqt@terminal:~$ ping -c 1 success
+sn0wqt@sn0wqts-MacBook-Air:~$ ping -c 1 success
 PING success (127.0.0.1): 56 data bytes
 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.024 ms
 --- success ping statistics ---

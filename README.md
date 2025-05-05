@@ -17,7 +17,6 @@ sn0wqt@sn0wqts-MacBook-Air:~$ cat /etc/profile
 💼 BSc Software Engineering @ American University of Iraq
 💻 Backend Development • API Design • Reverse Engineering
 🎮 Average FPS/Story-based Games • Manga/Anime • Code Enjoyer
-🔍 "Strive for continuous improvement, instead of perfection."
 
 sn0wqt@sn0wqts-MacBook-Air:~$ echo $PATH
 /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/homebrew/bin

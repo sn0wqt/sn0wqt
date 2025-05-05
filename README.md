@@ -13,8 +13,8 @@ sn0wqt@sn0wqts-MacBook-Air:~$ whoami
 Asaad F. Rasul
 
 sn0wqt@sn0wqts-MacBook-Air:~$ uname -a
-Darwin sn0wqts-MacBook-Air.local 24.3.0 Darwin Kernel Version 24.3.0: Thu Jan 2 20:24:06 PST 2025;
-root:xnu-11215.81.4~3/RELEASE_ARM64_T8103 arm64
+Darwin sn0wqts-MacBook-Air.local 24.3.0 Darwin Kernel Version 24.3.0: 
+Thu Jan 2 20:24:06 PST 2025; root:xnu-11215.81.4~3/RELEASE_ARM64_T8103 arm64
 
 sn0wqt@sn0wqts-MacBook-Air:~$ cat /etc/profile
 💼 BSc Software Engineering @ American University of Iraq

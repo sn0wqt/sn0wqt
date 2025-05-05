@@ -38,11 +38,9 @@ sn0wqt@sn0wqts-MacBook-Air:~$ echo $PATH
 
 # About Me
 
-<details style="padding: 20px; margin-bottom: 25px; border: 3px solid #30363d; border-radius: 10px; background-color: #0d1117; transition: all 0.3s ease;">
-  <summary style="font-size: 24px; font-weight: bold; padding: 18px; cursor: pointer; user-select: none; margin: -15px -15px 0; transition: all 0.3s ease;">
-    <b>Programming Languages</b>
-  </summary>
-  <br>
+<details>
+<summary><h3>Programming Languages</h3></summary>
+<br>
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
@@ -53,8 +51,8 @@ sn0wqt@sn0wqts-MacBook-Air:~$ echo $PATH
 ![Assembly](https://img.shields.io/badge/assembly-%23654FF0.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 </details>
 
-<details style="padding: 20px; margin-bottom: 25px; border: 3px solid #30363d; border-radius: 10px; background-color: #0d1117; transition: all 0.3s ease;">
-  <summary style="font-size: 24px; font-weight: bold; padding: 18px; cursor: pointer; user-select: none; margin: -15px -15px 0; transition: all 0.3s ease;">
+<details style="padding: 15px; margin-bottom: 20px; border: 2px solid #30363d; border-radius: 8px; background-color: #0d1117;">
+  <summary style="font-size: 20px; font-weight: bold; padding: 12px; cursor: pointer; user-select: none;">
     <b>Back-End</b>
   </summary>
   <br>
@@ -67,8 +65,8 @@ sn0wqt@sn0wqts-MacBook-Air:~$ echo $PATH
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 </details>
 
-<details style="padding: 20px; margin-bottom: 25px; border: 3px solid #30363d; border-radius: 10px; background-color: #0d1117; transition: all 0.3s ease;">
-  <summary style="font-size: 24px; font-weight: bold; padding: 18px; cursor: pointer; user-select: none; margin: -15px -15px 0; transition: all 0.3s ease;">
+<details style="padding: 15px; margin-bottom: 20px; border: 2px solid #30363d; border-radius: 8px; background-color: #0d1117;">
+  <summary style="font-size: 20px; font-weight: bold; padding: 12px; cursor: pointer; user-select: none;">
     <b>Front-End</b>
   </summary>
   <br>
@@ -80,8 +78,8 @@ sn0wqt@sn0wqts-MacBook-Air:~$ echo $PATH
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 </details>
 
-<details style="padding: 20px; margin-bottom: 25px; border: 3px solid #30363d; border-radius: 10px; background-color: #0d1117; transition: all 0.3s ease;">
-  <summary style="font-size: 24px; font-weight: bold; padding: 18px; cursor: pointer; user-select: none; margin: -15px -15px 0; transition: all 0.3s ease;">
+<details style="padding: 15px; margin-bottom: 20px; border: 2px solid #30363d; border-radius: 8px; background-color: #0d1117;">
+  <summary style="font-size: 20px; font-weight: bold; padding: 12px; cursor: pointer; user-select: none;">
     <b>Database</b>
   </summary>
   <br>
@@ -94,8 +92,8 @@ sn0wqt@sn0wqts-MacBook-Air:~$ echo $PATH
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 </details>
 
-<details style="padding: 20px; margin-bottom: 25px; border: 3px solid #30363d; border-radius: 10px; background-color: #0d1117; transition: all 0.3s ease;">
-  <summary style="font-size: 24px; font-weight: bold; padding: 18px; cursor: pointer; user-select: none; margin: -15px -15px 0; transition: all 0.3s ease;">
+<details style="padding: 15px; margin-bottom: 20px; border: 2px solid #30363d; border-radius: 8px; background-color: #0d1117;">
+  <summary style="font-size: 20px; font-weight: bold; padding: 12px; cursor: pointer; user-select: none;">
     <b>Cloud Platforms</b>
   </summary>
   <br>
@@ -108,8 +106,8 @@ sn0wqt@sn0wqts-MacBook-Air:~$ echo $PATH
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 </details>
 
-<details style="padding: 20px; margin-bottom: 25px; border: 3px solid #30363d; border-radius: 10px; background-color: #0d1117; transition: all 0.3s ease;">
-  <summary style="font-size: 24px; font-weight: bold; padding: 18px; cursor: pointer; user-select: none; margin: -15px -15px 0; transition: all 0.3s ease;">
+<details style="padding: 15px; margin-bottom: 20px; border: 2px solid #30363d; border-radius: 8px; background-color: #0d1117;">
+  <summary style="font-size: 20px; font-weight: bold; padding: 12px; cursor: pointer; user-select: none;">
     <b>Operating Systems</b>
   </summary>
   <br>

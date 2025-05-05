@@ -3,18 +3,16 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=4F94EF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello%2C+I'm+Asaad;Software+Engineer+%7C+Backend+Developer" width="70%" />
 </div>
 
-<!-- Right image aligned to the right -->
-<img src="https://github.com/sn0wqt/sn0wqt/blob/main/assets/right.jpeg" width="25%" align="right" />
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div style="flex: 1;">
 
-
-<!-- Console section - preserving original content without backticks -->
 ```console
 sn0wqt@sn0wqts-MacBook-Air:~$ whoami
 Asaad F. Rasul
 
 sn0wqt@sn0wqts-MacBook-Air:~$ uname -a
 Darwin sn0wqts-MacBook-Air.local 24.3.0 Darwin Kernel Version 24.3.0: 
-Thu Jan 2 20:24:06 PST 2025; root:xnu-11215.81.4~3/RELEASE_ARM64_T8103 arm64
+Thu Jan  2 20:24:06 PST 2025; root:xnu-11215.81.4~3/RELEASE_ARM64_T8103 arm64
 
 sn0wqt@sn0wqts-MacBook-Air:~$ cat /etc/profile
 💼 BSc Software Engineering @ American University of Iraq
@@ -30,6 +28,10 @@ PING success (127.0.0.1): 56 data bytes
 --- success ping statistics ---
 1 packets transmitted, 1 packets received, 0% packet loss
 ```
+</div> 
+<div> <img src="https://github.com/sn0wqt/sn0wqt/blob/main/assets/right.jpeg" width="100%" /> 
+</div> 
+</div>
 
 <div align="center">
 <img src="https://github.com/sn0wqt/sn0wqt/blob/main/assets/kyubey.gif" height="40" />

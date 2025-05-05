@@ -3,7 +3,7 @@
 
 <!-- Typing SVG at the top center -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=4F94EF¢er=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello%2C+I'm+Asaad;Software+Engineer+%7C+Backend+Developer" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=4F94EF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello%2C+I'm+Asaad;Software+Engineer+%7C+Backend+Developer" width="70%" />
 </div>
 
 <!-- Console section - preserving original content without backticks -->
@@ -12,7 +12,7 @@ sn0wqt@terminal:~$ whoami
 Asaad F. Rasul
 
 sn0wqt@terminal:~$ uname -a
-Linux sn0wqt 6.8.0-27-generic #27~22.04.1-Ubuntu SMP Mon Apr 22 15:45:00 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux
+Darwin sn0wqts-MacBook-Air.local 24.3.0 Darwin Kernel Version 24.3.0: Thu Jan  2 20:24:06 PST 2025; root:xnu-11215.81.4~3/RELEASE_ARM64_T8103 arm64
 
 sn0wqt@terminal:~$ cat /etc/profile
 💼 BSc Software Engineering @ American University of Iraq

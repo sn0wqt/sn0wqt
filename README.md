@@ -29,6 +29,7 @@ sn0wqt@sn0wqts-MacBook-Air:~$ echo $PATH
 <br><br>
 </div>
 
+<div align="center">
 
 [![](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asaad-f-rasul)
 [![](https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sn0wqt)

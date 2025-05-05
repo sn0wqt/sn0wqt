@@ -16,7 +16,7 @@ Linux sn0wqt 6.8.0-27-generic #27~22.04.1-Ubuntu SMP Mon Apr 22 15:45:00 UTC 202
 
 sn0wqt@terminal:~$ cat /etc/profile
 💼 BSc Software Engineering @ American University of Iraq
-💻 Backend Development • API Design • Reverse Engineering • DevOps
+💻 Backend Development • API Design • Reverse Engineering
 🎮 Average FPS/Story-based Games • Manga/Anime • Code Enjoyer
 🔍 "Strive for continuous improvement, instead of perfection."
 
@@ -32,7 +32,6 @@ PING success (127.0.0.1): 56 data bytes
 
 <div align="center">
 <img src="https://github.com/sn0wqt/sn0wqt/blob/main/assets/kyubey.gif" height="40" />
-<!-- breakline -->
 <br><br>
 
 

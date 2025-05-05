@@ -51,11 +51,9 @@ sn0wqt@sn0wqts-MacBook-Air:~$ echo $PATH
 ![Assembly](https://img.shields.io/badge/assembly-%23654FF0.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 </details>
 
-<details style="padding: 15px; margin-bottom: 20px; border: 2px solid #30363d; border-radius: 8px; background-color: #0d1117;">
-  <summary style="font-size: 20px; font-weight: bold; padding: 12px; cursor: pointer; user-select: none;">
-    <b>Back-End</b>
-  </summary>
-  <br>
+<details>
+<summary><h3>Back-End</h3></summary>
+<br>
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -65,11 +63,9 @@ sn0wqt@sn0wqts-MacBook-Air:~$ echo $PATH
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 </details>
 
-<details style="padding: 15px; margin-bottom: 20px; border: 2px solid #30363d; border-radius: 8px; background-color: #0d1117;">
-  <summary style="font-size: 20px; font-weight: bold; padding: 12px; cursor: pointer; user-select: none;">
-    <b>Front-End</b>
-  </summary>
-  <br>
+<details>
+<summary><h3>Front-End</h3></summary>
+<br>
 
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -78,11 +74,9 @@ sn0wqt@sn0wqts-MacBook-Air:~$ echo $PATH
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 </details>
 
-<details style="padding: 15px; margin-bottom: 20px; border: 2px solid #30363d; border-radius: 8px; background-color: #0d1117;">
-  <summary style="font-size: 20px; font-weight: bold; padding: 12px; cursor: pointer; user-select: none;">
-    <b>Database</b>
-  </summary>
-  <br>
+<details>
+<summary><h3>Database</h3></summary>
+<br>
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -92,11 +86,9 @@ sn0wqt@sn0wqts-MacBook-Air:~$ echo $PATH
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 </details>
 
-<details style="padding: 15px; margin-bottom: 20px; border: 2px solid #30363d; border-radius: 8px; background-color: #0d1117;">
-  <summary style="font-size: 20px; font-weight: bold; padding: 12px; cursor: pointer; user-select: none;">
-    <b>Cloud Platforms</b>
-  </summary>
-  <br>
+<details>
+<summary><h3>Cloud Platforms</h3></summary>
+<br>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -106,11 +98,9 @@ sn0wqt@sn0wqts-MacBook-Air:~$ echo $PATH
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 </details>
 
-<details style="padding: 15px; margin-bottom: 20px; border: 2px solid #30363d; border-radius: 8px; background-color: #0d1117;">
-  <summary style="font-size: 20px; font-weight: bold; padding: 12px; cursor: pointer; user-select: none;">
-    <b>Operating Systems</b>
-  </summary>
-  <br>
+<details>
+<summary><h3>Operating Systems</h3></summary>
+<br>
 
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)

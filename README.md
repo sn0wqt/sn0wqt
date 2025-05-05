@@ -1,20 +1,20 @@
-<!-- Right image aligned to the right with adjusted vertical positioning -->
-<div style="float: right; margin-top: 60px;">
-<img src="https://github.com/sn0wqt/sn0wqt/blob/main/assets/right.jpeg" width="25%" />
-</div>
-
-<!-- Typing SVG at the top center -->
+<!-- Header section with typing SVG -->
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=4F94EF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello%2C+I'm+Asaad;Software+Engineer+%7C+Backend+Developer" width="70%" />
 </div>
 
-<!-- Console section with forced line breaks using <br> within pre format -->
-<pre style="background-color: #0d1117; border-radius: 8px; padding: 15px; color: #c9d1d9; font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; margin-right: 28%;">
+<!-- Content section with side-by-side layout -->
+<table border="0">
+<tr>
+<td width="70%" valign="top">
+
+```console
 sn0wqt@sn0wqts-MacBook-Air:~ % whoami
 Asaad F. Rasul
 
 sn0wqt@sn0wqts-MacBook-Air:~ % uname -a
-Darwin sn0wqts-MacBook-Air.local 24.3.0 Darwin Kernel Version 24.3.0: Thu Jan 2 20:24:06 PST 2025;<br>root:xnu-11215.81.4~3/RELEASE_ARM64_T8103 arm64
+Darwin sn0wqts-MacBook-Air.local 24.3.0 Darwin Kernel Version 24.3.0: 
+Thu Jan 2 20:24:06 PST 2025; root:xnu-11215.81.4~3/RELEASE_ARM64_T8103 arm64
 
 sn0wqt@sn0wqts-MacBook-Air:~ % cat /etc/profile
 💼 BSc Software Engineering @ American University of Iraq
@@ -30,11 +30,9 @@ PING success (127.0.0.1): 56 data bytes
 64 bytes from 127.0.0.1: icmp_seq=0 ttl=64 time=0.024 ms
 --- success ping statistics ---
 1 packets transmitted, 1 packets received, 0% packet loss
-</pre>
+```
 
-<div align="center">
-<img src="https://github.com/sn0wqt/sn0wqt/blob/main/assets/kyubey.gif" height="40" />
-<br><br>
+</td> <td width="30%" align="right" valign="top"> <img src="https://github.com/sn0wqt/sn0wqt/blob/main/assets/right.jpeg" width="100%" /> </td> </tr> </table> <div align="center"> <img src="https://github.com/sn0wqt/sn0wqt/blob/main/assets/kyubey.gif" height="40" /> <br><br> </div>
 
 
 [![](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asaad-f-rasul)

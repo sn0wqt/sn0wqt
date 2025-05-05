@@ -7,7 +7,7 @@
 
 ```console
 sn0wqt@sn0wqts-MacBook-Air:~$ whoami
-Asaad F. Rasul
+sn0wqt AKA Asaad F. Rasul
 
 sn0wqt@sn0wqts-MacBook-Air:~$ uname -a
 Darwin sn0wqts-MacBook-Air.local 24.3.0 Darwin Kernel Version 24.3.0:

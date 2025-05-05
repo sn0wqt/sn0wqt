@@ -1,25 +1,25 @@
-<!-- Right-aligned image -->
-<img src="https://github.com/sn0wqt/sn0wqt/blob/main/assets/right.jpeg" width="25%" align="right" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=4F94EF&center=true&vCenter=true&multiline=true&random=false&width=1000&height=140&lines=Hello%2C+I'm+Asaad;Software+Engineer+%7C+Backend+Developer" />
+</div>
 
-<!-- Typing SVG above console only -->
-<div style="width: 70%;">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=4F94EF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=140&lines=Hello%2C+I'm+Asaad;Software+Engineer+%7C+Backend+Developer" width="100%" />
+<img align="right" width="300px" src="https://github.com/sn0wqt/sn0wqt/blob/main/assets/right.jpeg" />
 
 ```console
-sn0wqt@sn0wqts-MacBook-Air:~$ whoami
+sn0wqt@sn0wqts-MacBook-Air:~ % whoami
 Asaad F. Rasul
 
-sn0wqt@sn0wqts-MacBook-Air:~$ uname -a
+sn0wqt@sn0wqts-MacBook-Air:~ % uname -a
 Darwin sn0wqts-MacBook-Air.local 24.3.0 Darwin Kernel Version 24.3.0: 
 Thu Jan 2 20:24:06 PST 2025; root:xnu-11215.81.4~3/RELEASE_ARM64_T8103 arm64
 
-sn0wqt@sn0wqts-MacBook-Air:~$ cat /etc/profile
+sn0wqt@sn0wqts-MacBook-Air:~ % cat /etc/profile
 💼 BSc Software Engineering @ American University of Iraq
 💻 Backend Development • API Design • Reverse Engineering
 🎮 Average FPS/Story-based Games • Manga/Anime • Code Enjoyer
+🔍 "Strive for continuous improvement, instead of perfection."
 
-sn0wqt@sn0wqts-MacBook-Air:~$ echo $PATH
-/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games
+sn0wqt@sn0wqts-MacBook-Air:~ % echo $PATH
+/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/homebrew/bin
 ```
 
 <div align="center">

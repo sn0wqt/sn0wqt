@@ -5,7 +5,7 @@
 </div>
 
 <div align="left">
-
+  
   ```console
   sn0wqt@sn0wqts-MacBook-Air:~$ whoami
   sn0wqt AKA Asaad F. Rasul
@@ -22,7 +22,6 @@
   sn0wqt@sn0wqts-MacBook-Air:~$ echo $PATH
   /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/homebrew/bin
   ```
-
 </div>
 <div align="center">
   <br><br>

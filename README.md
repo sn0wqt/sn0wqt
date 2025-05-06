@@ -24,7 +24,7 @@
   ```
 </div>
 <div align="center">
-  <br><br>
+  <br>
   <img src="https://github.com/sn0wqt/sn0wqt/blob/main/assets/kyubey.gif" height="40" />
   <br><br>
 

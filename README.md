@@ -16,7 +16,7 @@
   
   sn0wqt@sn0wqts-MacBook-Air:~$ cat /etc/profile
   💼 BSc Software Engineering @ American University of Iraq
-  💻 Backend Development • API Design • Reverse Engineering
+  💻 Software Engineering • Backend Development • Reverse Engineering
   🎮 Average FPS/Story-based Games • Manga/Anime • Code Enjoyer
   
   sn0wqt@sn0wqts-MacBook-Air:~$ echo $PATH

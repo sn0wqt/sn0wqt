@@ -29,10 +29,10 @@
   <br><br>
 
 
+  [![](https://img.shields.io/badge/portfolio-54B689?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://sn0wqt.github.io)
   [![](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asaad-f-rasul)
   [![](https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sn0wqt)
   [![](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asadfalah2@gmail.com)
-  [![](https://img.shields.io/badge/portfolio-54B689?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://sn0wqt.github.io)
   [![](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mov_r0)
 </div>
 

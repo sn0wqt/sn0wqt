@@ -52,7 +52,7 @@
 </details>
 
 <details>
-  <summary><h3>Back-End</h3></summary>
+  <summary><h3>Backend</h3></summary>
   <br>
   
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -64,7 +64,7 @@
 </details>
 
 <details>
-  <summary><h3>Front-End</h3></summary>
+  <summary><h3>Frontend</h3></summary>
   <br>
   
   ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)

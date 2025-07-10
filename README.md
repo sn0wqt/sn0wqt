@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://github.com/sn0wqt/sn0wqt/blob/main/assets/banner-2.png/">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=45B8AC&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello%2C+I'm+Asaad;Software+Engineer+%7C+Backend+Developer+%7C+Reverse+Engineer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=45B8AC&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello%2C+I'm+Asaad;Software+Engineer+%7C+Backend+Developer"/>
 <br><br>
 </div>
 
@@ -16,7 +16,7 @@
   
   sn0wqt@sn0wqts-MacBook-Air:~$ cat /etc/profile
   💼 BSc Software Engineering @ American University of Iraq
-  💻 Software Engineering • Backend Development • Reverse Engineering
+  💻 Software Engineering • Backend Development • Reverse Engineer
   🎮 Average FPS/Story-based Games • Manga/Anime • Code Enjoyer
   
   sn0wqt@sn0wqts-MacBook-Air:~$ echo $PATH

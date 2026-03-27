@@ -16,7 +16,7 @@
   
   sn0wqt@sn0wqts-MacBook-Air:~$ cat /etc/profile
   🔎 MSc Software Engineering @ Technische Universität Wien
-  💼 BSc Software Engineering @ American University of Iraq
+  💼 BSc Software Engineering @ American University of Iraq, Sulaimani
   💻 Software Engineering • Backend Development • Reverse Engineering
   
   sn0wqt@sn0wqts-MacBook-Air:~$ echo $PATH

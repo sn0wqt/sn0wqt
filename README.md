@@ -15,6 +15,7 @@
   Tue Apr 22 19:48:46 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8103 arm64
   
   sn0wqt@sn0wqts-MacBook-Air:~$ cat /etc/profile
+  💼 MSc Software Engineering @ Technische Universität Wien
   💼 BSc Software Engineering @ American University of Iraq
   💻 Software Engineering • Backend Development • Reverse Engineering
   🎮 Average FPS/Story-based Games • Manga/Anime • Code Enjoyer
